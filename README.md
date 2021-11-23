@@ -1,7 +1,8 @@
 
 <p align="center">
 
-  <img width="100%" src="https://user-images.githubusercontent.com/62067806/143072959-a38a13c7-568c-47f4-a88e-b8dbc7156f81.jpg" alt="Photo head">  
+
+  <img width="100%" src="https://user-images.githubusercontent.com/62067806/143074562-a16a7aa5-81bb-4b01-847f-87320c4f453e.jpg" alt="Photo head">  
   
  
 
