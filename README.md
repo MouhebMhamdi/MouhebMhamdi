@@ -1,5 +1,11 @@
+<html>
+  <head>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-<p align="center">
+</head>
+  <body>
+    
+  
+    <p align="center">
 
 
   <img width="100%" src="https://user-images.githubusercontent.com/62067806/143074562-a16a7aa5-81bb-4b01-847f-87320c4f453e.jpg" alt="Photo head">  
@@ -19,3 +25,5 @@
    
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  </body>
+  </html>
