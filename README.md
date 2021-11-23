@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **mhamdi.mouheb@esprit.tn**
+- 📫 How to contact me **mhamdi.mouheb@esprit.tn**
 
 - ⚡ Fun fact **I play games.**
 
