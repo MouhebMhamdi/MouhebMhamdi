@@ -75,7 +75,7 @@
 
 <a href = "https://www.linkedin.com/in/mouhebmhamdi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/mouhebmh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="mailto:mhamdi.mouheb@gmail.com" ><img src="https://img.icons8.com/color/50/000000/gmail--v1.png"/></a>
+    <a href="mailto:mhamdi.mouheb@esprit.tn" ><img src="https://img.icons8.com/color/50/000000/gmail--v1.png"/></a>
 
 </p>
 
