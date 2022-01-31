@@ -12,7 +12,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[WebStore For ESPRIT PROJECT]
+- 🔭 I’m currently working on **[PI MERN stack project For ESPRIT]
 
 - 🌱 I’m currently learning **Flutter.**
 
