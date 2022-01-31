@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **[PI MERN stack project For ESPRIT]
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning **Django.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
