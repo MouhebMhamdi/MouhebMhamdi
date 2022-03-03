@@ -6,11 +6,12 @@
 
  
 
-  
 
 
 
-  <img width="100%" src="https://user-images.githubusercontent.com/62067806/155898282-b5056f32-ce2e-4863-9b35-fe5ccaf0a59c.gif" alt="Photo head">  
+
+
+  <img width="100%" src="https://user-images.githubusercontent.com/62067806/156546701-604663ed-5610-409d-9a7b-790c0f55c322.gif" alt="Photo head">  
  
  
 
