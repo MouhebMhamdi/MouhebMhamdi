@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **[PI MERN stack project For ESPRIT: E-BOARD : <br/>
           * BACKEND: https://eboardbackend2022.herokuapp.com/<br/>
-          * FRONTEND: https://eboardfrontendapplication.herokuapp.com/]
+          * FRONTEND: https://eboardwebapp.herokuapp.com/]
 
 - 🌱 I’m currently learning **Django.**
 
