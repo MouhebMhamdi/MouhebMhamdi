@@ -18,11 +18,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[PI MERN stack project For ESPRIT: E-BOARD : <br/>
-          * BACKEND: https://eboardbackend2022.herokuapp.com/<br/>
-          * FRONTEND: https://eboardwebapp.herokuapp.com/]
+- 🔭 I’m currently working on **[FACTOORYA WEB SITE & WEB APP FOR CNI (national computer centre)  : <br/>
 
-- 🌱 I’m currently learning **Django.**
+- 🌱 I’m currently learning **VUE.JS.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
