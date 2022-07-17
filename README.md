@@ -18,7 +18,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[FACTOORYA WEB SITE & WEB APP FOR CNI (national computer centre)  : <br/>
+- 🔭 I’m currently working on **[FACTOORYA WEB SITE & WEB APP FOR CNI (national computer centre) <br/>
 
 - 🌱 I’m currently learning **VUE.JS.**
 
