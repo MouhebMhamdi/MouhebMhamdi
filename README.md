@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to contact me **mhamdi.mouheb@esprit.tn**
+- 📫 How to contact me **mouheb@locusdigital.com**
 
 - ⚡ Fun fact **I play games.**
 
