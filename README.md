@@ -11,7 +11,8 @@
 
 
 
-  <img width="100%" src="https://user-images.githubusercontent.com/62067806/156546701-604663ed-5610-409d-9a7b-790c0f55c322.gif" alt="Photo head">  
+
+  <img width="100%" src="https://user-images.githubusercontent.com/62067806/204685018-d6bea4bd-30da-4cf7-89a7-cb8d7f0d57ec.gif" alt="Photo head">  
  
  
 
