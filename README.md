@@ -22,8 +22,6 @@
 
 - 🔭 I’m currently working on **INDIGO PLATEFORME : <a href="https://www.locusdigital.com/our-work/indigo-vizual" target="_blank" >clickHere </a><br/>
 
-- 🌱 I’m currently learning **NEST.JS.**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to contact me **mouheb@locusdigital.com**
