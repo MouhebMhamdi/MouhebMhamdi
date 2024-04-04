@@ -15,16 +15,17 @@
 
  
  
+ <br/>
+ <br/>
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=ecd6c3&center=true&vCenter=true&lines=Hi%2C+I%27m+Mouheb+Mhamdi;%20Software+Engineer" width="900">
+</p>
+ <br/>
  
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
-## 🙋‍♂️ About Me
-
 <p align="center">
 As a highly skilled software engineer, I possess a deep understanding of various programming languages and frameworks, including but not limited to AngularJS, Node.js, ReactJS, Spring, NestJS, and beyond. My extensive expertise in these technologies enables me to design and develop highly efficient and scalable software solutions that meet and exceed the demands of today's dynamic market.</p>
-
- 
  <br/>
+ 
  <p align="center">
 - 🔭 I’m currently working on **INDIGO PLATEFORME : <a href="https://www.locusdigital.com/our-work/indigo-vizual" target="_blank" >clickHere </a><br/></p>
 
