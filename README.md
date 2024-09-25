@@ -89,7 +89,7 @@ As a highly skilled software engineer, I possess a deep understanding of various
 
 <a href = "https://www.linkedin.com/in/mouhebmhamdi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/mouhebmh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="mailto:mhamdi.mouheb@esprit.tn" ><img src="https://img.icons8.com/color/50/000000/gmail--v1.png"/></a>
+    <a href="mailto:mhamdi.mouheb1@gmail.com" ><img src="https://img.icons8.com/color/50/000000/gmail--v1.png"/></a>
 
 </p>
 
