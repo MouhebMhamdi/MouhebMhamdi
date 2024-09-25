@@ -31,7 +31,7 @@ As a highly skilled software engineer, I possess a deep understanding of various
 
 <p align="center">- 👯 I’m looking to collaborate on **OpenSource Projects**</p>
 
-<p align="center">- 📫 How to contact me **mouheb@locusdigital.com**</p>
+<p align="center">- 📫 How to contact me **mhamdi.mouheb1@gmail.com**</p>
 
 <p align="center">- ⚡ Fun fact **I play games.**</p>
 
