@@ -6,10 +6,11 @@
 
 
 
+
  
 
 
-<img width="100%" src="https://github.com/user-attachments/assets/6fde7249-ed41-4a37-b4f2-1bfe4ddff1f0" alt="Photo head">  
+<img width="100%" src="https://github.com/user-attachments/assets/8321f745-baea-4717-b4aa-535e1239cce9" alt="Photo head">  
 
 
 
