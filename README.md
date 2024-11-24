@@ -20,7 +20,7 @@
  <br/>
  <br/>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=ecd6c3&center=true&vCenter=true&lines=Hi%2C+I%27m+Mouheb+Mhamdi;%20Software+Engineer" width="900">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=ecd6c3&center=true&vCenter=true&lines=Hi%2C+I%27m+Mouheb+Mhamdi;%20Software+Engineer;%20FullStack+Web+Developer" width="900">
 </p>
  <br/>
  
