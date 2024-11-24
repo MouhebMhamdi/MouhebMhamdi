@@ -29,7 +29,6 @@ As a highly skilled software engineer, I possess a deep understanding of various
  <br/>
  
  <p align="center">
-- 🔭 I’m currently working on **INDIGO PLATEFORME : <a href="https://www.locusdigital.com/our-work/indigo-vizual" target="_blank" >clickHere </a><br/></p>
 
 <p align="center">- 👯 I’m looking to collaborate on **OpenSource Projects**</p>
 
